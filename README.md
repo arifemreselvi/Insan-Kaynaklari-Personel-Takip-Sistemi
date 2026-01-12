@@ -64,6 +64,7 @@ Bu proje, bir işletmedeki tüm kaosu profesyonelliğe dönüştüren, C# WinFor
 ## 📺 Video Rehber
 #### Proje Tanıtım ve Kullanım Rehberi
 [![Proje Rehberi](https://img.youtube.com/vi/iQaygWBDKAw/0.jpg)](https://www.youtube.com/watch?v=iQaygWBDKAw)
-Sistemin nasıl lowkey aktığını izlemek için görsele veya [buraya](https://www.youtube.com/watch?v=iQaygWBDKAw) tıkla 🎥.
+
+Sistemin özeti ve nasıl kullanılacağını izlemek için görsele veya [buraya](https://www.youtube.com/watch?v=iQaygWBDKAw) tıkla 🎥.
 
 ---
