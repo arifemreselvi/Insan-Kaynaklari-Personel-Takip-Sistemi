@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|c:\\users\\cypress\\downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\personel\\personel\\sifretalepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\sifretalepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\sifretalepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\sifretalepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\raporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\raporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\raporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\raporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\performansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\performansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\performansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\performansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\izinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\izinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\izinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\izinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\hesapyonetimiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\hesapyonetimiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\hesapyonetimiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\hesapyonetimiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\departmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\departmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\departmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\departmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\service\\departmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\service\\departmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\domain\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\domain\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\domain\\izin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\domain\\izin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\domain\\departman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\domain\\departman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\dal\\personeldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\dal\\personeldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\dal\\kullanicidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\dal\\kullanicidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\dal\\izindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\dal\\izindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\personel\\dal\\departmandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8F3C81-1A53-4949-95F4-FC0302ABBCB8}|Personel\\Personel.csproj|solutionrelative:personel\\dal\\departmandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerformansForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\PerformansForm.cs",
+              "RelativeDocumentMoniker": "Personel\\PerformansForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\PerformansForm.cs [Design]",
+              "RelativeToolTip": "Personel\\PerformansForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:13:36.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerformansForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\PerformansForm.cs",
+              "RelativeDocumentMoniker": "Personel\\PerformansForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\PerformansForm.cs",
+              "RelativeToolTip": "Personel\\PerformansForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:27:26.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\PersonelForm.cs",
+              "RelativeDocumentMoniker": "Personel\\PersonelForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\PersonelForm.cs [Design]",
+              "RelativeToolTip": "Personel\\PersonelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:16:08.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonelForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\PersonelForm.cs",
+              "RelativeDocumentMoniker": "Personel\\PersonelForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\PersonelForm.cs",
+              "RelativeToolTip": "Personel\\PersonelForm.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAQwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:19:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaporForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\RaporForm.cs",
+              "RelativeDocumentMoniker": "Personel\\RaporForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\RaporForm.cs [Design]",
+              "RelativeToolTip": "Personel\\RaporForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:13:40.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RaporForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\RaporForm.cs",
+              "RelativeDocumentMoniker": "Personel\\RaporForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\RaporForm.cs",
+              "RelativeToolTip": "Personel\\RaporForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T13:00:27.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SifreTalepForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\SifreTalepForm.cs",
+              "RelativeDocumentMoniker": "Personel\\SifreTalepForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\SifreTalepForm.cs [Design]",
+              "RelativeToolTip": "Personel\\SifreTalepForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T23:39:39.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SifreTalepForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\SifreTalepForm.cs",
+              "RelativeDocumentMoniker": "Personel\\SifreTalepForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\SifreTalepForm.cs",
+              "RelativeToolTip": "Personel\\SifreTalepForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:29:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Personel\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\LoginForm.cs",
+              "RelativeToolTip": "Personel\\LoginForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:10:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Personel\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Personel\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:02:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KayitForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\KayitForm.cs",
+              "RelativeDocumentMoniker": "Personel\\KayitForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\KayitForm.cs",
+              "RelativeToolTip": "Personel\\KayitForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:15:27.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KayitForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\KayitForm.cs",
+              "RelativeDocumentMoniker": "Personel\\KayitForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\KayitForm.cs [Design]",
+              "RelativeToolTip": "Personel\\KayitForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:14:48.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IzinForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\IzinForm.cs",
+              "RelativeDocumentMoniker": "Personel\\IzinForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\IzinForm.cs",
+              "RelativeToolTip": "Personel\\IzinForm.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:26:10.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IzinForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\IzinForm.cs",
+              "RelativeDocumentMoniker": "Personel\\IzinForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\IzinForm.cs [Design]",
+              "RelativeToolTip": "Personel\\IzinForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:13:16.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HesapYonetimiForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\HesapYonetimiForm.cs",
+              "RelativeDocumentMoniker": "Personel\\HesapYonetimiForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\HesapYonetimiForm.cs",
+              "RelativeToolTip": "Personel\\HesapYonetimiForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:25:39.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HesapYonetimiForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\HesapYonetimiForm.cs",
+              "RelativeDocumentMoniker": "Personel\\HesapYonetimiForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\HesapYonetimiForm.cs [Design]",
+              "RelativeToolTip": "Personel\\HesapYonetimiForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T13:13:07.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmanForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DepartmanForm.cs",
+              "RelativeDocumentMoniker": "Personel\\DepartmanForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DepartmanForm.cs",
+              "RelativeToolTip": "Personel\\DepartmanForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:05:47.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmanForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DepartmanForm.cs",
+              "RelativeDocumentMoniker": "Personel\\DepartmanForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DepartmanForm.cs [Design]",
+              "RelativeToolTip": "Personel\\DepartmanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:05:45.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\AnaForm.cs",
+              "RelativeDocumentMoniker": "Personel\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\AnaForm.cs",
+              "RelativeToolTip": "Personel\\AnaForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA8wHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:10:36.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\AnaForm.cs",
+              "RelativeDocumentMoniker": "Personel\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\AnaForm.cs [Design]",
+              "RelativeToolTip": "Personel\\AnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T23:28:02.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmanService.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\Service\\DepartmanService.cs",
+              "RelativeDocumentMoniker": "Personel\\Service\\DepartmanService.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\Service\\DepartmanService.cs",
+              "RelativeToolTip": "Personel\\Service\\DepartmanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:42:00.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\Domain\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Personel\\Domain\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\Domain\\Kullanici.cs",
+              "RelativeToolTip": "Personel\\Domain\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:04:46.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Izin.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\Domain\\Izin.cs",
+              "RelativeDocumentMoniker": "Personel\\Domain\\Izin.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\Domain\\Izin.cs",
+              "RelativeToolTip": "Personel\\Domain\\Izin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:04:42.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Departman.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\Domain\\Departman.cs",
+              "RelativeDocumentMoniker": "Personel\\Domain\\Departman.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\Domain\\Departman.cs",
+              "RelativeToolTip": "Personel\\Domain\\Departman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:46:12.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PersonelDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DAL\\PersonelDAO.cs",
+              "RelativeDocumentMoniker": "Personel\\DAL\\PersonelDAO.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DAL\\PersonelDAO.cs",
+              "RelativeToolTip": "Personel\\DAL\\PersonelDAO.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:04:30.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KullaniciDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DAL\\KullaniciDAO.cs",
+              "RelativeDocumentMoniker": "Personel\\DAL\\KullaniciDAO.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DAL\\KullaniciDAO.cs",
+              "RelativeToolTip": "Personel\\DAL\\KullaniciDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:04:27.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IzinDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DAL\\IzinDAO.cs",
+              "RelativeDocumentMoniker": "Personel\\DAL\\IzinDAO.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DAL\\IzinDAO.cs",
+              "RelativeToolTip": "Personel\\DAL\\IzinDAO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:04:24.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DepartmanDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DAL\\DepartmanDAO.cs",
+              "RelativeDocumentMoniker": "Personel\\DAL\\DepartmanDAO.cs",
+              "ToolTip": "C:\\Users\\Cypress\\Downloads\\arif\\ders\\2. s\u0131n\u0131f\\nesne y\u00F6nelimli programlama\\proje\\Personel\\Personel\\DAL\\DepartmanDAO.cs",
+              "RelativeToolTip": "Personel\\DAL\\DepartmanDAO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:25:38.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
