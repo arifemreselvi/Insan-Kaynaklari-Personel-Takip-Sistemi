@@ -5,7 +5,7 @@ Bu proje, bir işletmedeki tüm kaosu profesyonelliğe dönüştüren, C# WinFor
 ## 🌟 Proje Özeti
 İnsan kaynakları süreçlerini dijitalleştirip her şeyi raporlanabilir hale getiren bu uygulama, kolaylık sağlayan bir kurumsal çözüm sunuyor 💼. 
 
-## 🛠️ Kullanulan Teknikler
+## 🛠️ Kullanılan Teknikler
 * **Dil:** C# (WinForms) - klasik ama etkili 💻.
 * **Veritabanı:** MySQL / phpMyAdmin - Data akışı çok smooth 📊.
 * **Mimari:** N-Tier Architecture (DAL, BLL, UI) - Sorumluluklar tam yerinde 🏗️.
