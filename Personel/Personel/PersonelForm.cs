@@ -80,6 +80,7 @@ namespace Personel
                 Personel.Domain.Personel seciliPersonel = (Personel.Domain.Personel)personelListBox.SelectedItem;
                 (new Service.PersonelService()).personelSil(seciliPersonel.PersonelId);
                 MessageBox.Show("Personel sistemden başarıyla kaldırıldı.");
+                personelListele();
             }
             else
             {
